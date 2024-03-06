@@ -1,0 +1,29 @@
+baseURL: 'https://aarongrand.github.io/'
+languageCode: en-us
+title: Aaron Grand
+theme: PaperMod
+menu:
+  main:
+    - identifier: cv
+      name: CV
+      title: CV
+      url: /cv/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      title: Projects
+      url: /projects/
+      weight: 10
+
+params:
+  profileMode:
+    enabled: true
+    title: "Aaron Grand" # optional default will be site title
+    subtitle: ""
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+  socialIcons: # optional
+    - name: "linkedIn"
+      url: "https://www.linkedin.com/in/aaron-grand-9531a5161/"
+    - name: "Github"
+      url: "https://github.com/AaronGrand"
