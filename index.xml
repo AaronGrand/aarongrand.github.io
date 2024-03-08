@@ -25,8 +25,8 @@ Persönliche Projekte Bachelorthesis GlaciAR: GPS-basierte Augmented Reality App
       <link>https://aarongrand.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aarongrand.github.io/projects/</guid>
-      <description>FlightRacing FlightRacing ist ein Physikbasierter Multiplayer Flugsimulator, welcher im Rahmen des Moduls GameDevelopment an der BFH erarbeitet wurde. Das Ziel des Projekts war es, das Unity Relay-System besser kennenzulernen und eine erste Multiplayer Applikation zu entwickeln.
-Discovering Haskell Haskell ist eine funktionale Programmiersprache und unterscheidet sich stark von anderen zeitgenössischen Programmiersprachen wie Java und C++. Dieses Projekt deckt die wichtigsten Aspekte von Haskell ab und ergänzt durch zahlreiche Anwendungsfälle und Beispielprogramme.</description>
+      <description>GPS basiertes Augmented-Reality GPS-basiertes Augmented-Reality bietet eine einzigartige Möglichkeit, digitale Objekte nahtlos an vordefinierten GPS-Positionen zu platzieren. Dieses Tool ermöglicht den globalen Abruf von lokalen Terraininformationen, welche in ein Unity Terrain umgewandelt und als Occlusion für grosse Objekte dienen kann. Dies wird in meiner BachelorThesis GlaciAR eine entscheidende Rolle für die Occlusion der Gletscher spielen.
+Discovering Haskell Haskell ist eine funktionale Programmiersprache und unterscheidet sich stark von anderen zeitgenössischen Programmiersprachen wie Java und C++.</description>
     </item>
   </channel>
 </rss>
